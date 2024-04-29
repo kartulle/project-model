@@ -36,5 +36,5 @@
 
 ### Membros que contribuíram para o projeto:
 <a href="https://github.com/kartulle/project-model/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kartulle/dio-lab-open-source"/>
+  <img src="https://contrib.rocks/image?repo=kartulle/project-model"/>
 </a>
