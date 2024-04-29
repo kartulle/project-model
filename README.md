@@ -34,8 +34,4 @@
 ### Membros que contribuíram para o projeto:
 <a href="https://github.com/kartulle/project-model/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kartulle/project-model"/>
-<<<<<<< HEAD
 </a>
-=======
-</a>
->>>>>>> 976428a75f235a318b1e4a378f47d3adcc0b5403
