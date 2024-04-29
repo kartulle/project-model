@@ -13,7 +13,7 @@ Descrição da alteração que está sendo proposta.
 
 - [ ] Minhas alterações não deletam partes do projeto
 - [ ] Minhas alterações não introduzem novos problemas
-- [ ] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/kartulle/project-model/blob/main/README.md)
+- [ ] Minha contribuição está de acordo com o [Guia de Contribuição](https://www.google.com/)
 
 ### Comentários adicionais
 
