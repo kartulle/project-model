@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# project-model
-=======
 # Project-Model
->>>>>>> f161cf716c82ef7a12d96ab1aa9a227133ed6b83
+
 ### Instruções
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/project-model`;
