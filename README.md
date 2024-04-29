@@ -1,4 +1,4 @@
-# Projeto-Modelo
+# Project-Model
 ### Instruções
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/projeto-modelo`;
