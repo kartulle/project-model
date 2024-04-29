@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# project-model
-=======
 # Project-Model
->>>>>>> f161cf716c82ef7a12d96ab1aa9a227133ed6b83
+
 ### Instruções
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/project-model`;
@@ -36,5 +33,10 @@
 
 ### Membros que contribuíram para o projeto:
 <a href="https://github.com/kartulle/project-model/graphs/contributors">
+<<<<<<< HEAD
   <img src="https://contrib.rocks/image?repo=kartulle/project-model"/>
 </a>
+=======
+  <img src="https://contrib.rocks/image?repo=kartulle/dio-lab-open-source"/>
+</a>
+>>>>>>> b0a947ce10dbdace03b8aea8ee11879c7818cbc6
