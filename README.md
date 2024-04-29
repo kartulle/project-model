@@ -1,17 +1,17 @@
-# Projeto-Modelo
+# project-model
 ### Instruções
 1. Faça um **Fork** deste repositório;
-2. Clone localmente: `git clone https://github.com/SEU_USERNAME/projeto-modelo`;
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/kartulle/projeto-modelo`;
+2. Clone localmente: `git clone https://github.com/SEU_USERNAME/project-model`;
+3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/kartulle/project-model`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crie uma nova **branch** e nomeie como `feat/collaborators/SEU_USERNAME`:
     > Exemplo: `git checkout -b feat/collaborators/kartulle`
-5. Dentro da pasta [`collaborators`](https://github.com/kartulle/projeto-modelo/tree/main/collaborators), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+5. Dentro da pasta [`collaborators`](https://github.com/kartulle/project-model/tree/main/collaborators), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `collaborators/kartulle.md` <br>
 6. Adicione suas alterações à "staging area" com o comando `git add collaborators/SEU_USERNAME.md`;
     > **Observação:** Você pode utilizar o comando `git add .` para adicionar todas as alterações de uma vez só.
 7. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
-    > **Observação:** Verificar a [`Convenção de Commits`](https://github.com/kkademorais/projeto-modelo/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
+    > **Observação:** Verificar a [`Convenção de Commits`](https://github.com/kkademorais/project-model/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 8. Envie as alterações para o seu repositório remoto `git push origin feat/collaborators/SEU_USERNAME`;
     > **Observação:** Você pode utilizar o comando `git push origin` para mandar as alterações sem precisar especificar a URL, desde que você tenha feito o passo **3**. 
 9. Crie um **Pull Request**.
@@ -29,3 +29,8 @@
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: testing FUNCIONALITYNAME`
+
+### Membros que contribuíram para o projeto:
+<a href="https://github.com/kartulle/project-model/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kartulle/dio-lab-open-source"/>
+</a>
