@@ -1,4 +1,4 @@
-name: DIO Lab Workflow
+name: Project Model Workflow
 
 on:
   pull_request_target:
@@ -49,12 +49,8 @@ jobs:
       run: |
         REPO_URL=${{ github.event.pull_request.head.repo.html_url }}
         cat <<EOT > message.txt
-        Aí sim hein! Seu PR foi aprovado 🥳 Você já pode submeter o seu projeto na plataforma da DIO. Segue sua URL:
-        \`\`\`
-        $REPO_URL
-        \`\`\`
-        Faremos o merge aqui em breve. Muito obrigado por fazer parte da nossa comunidade 🚀
-        EOT
+        Aí sim hein! Seu PR foi aprovado 🥳
+        Faremos o merge aqui em breve. Muito obrigado!
 
         gh pr comment ${{ github.event.pull_request.number }} --body-file=message.txt
         gh pr edit ${{ github.event.pull_request.number }} --add-label "automerge"
